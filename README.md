@@ -35,5 +35,20 @@ For the software engineering and design category, I have selected my fitness tra
 
 
 ## Algorithms and Data Structure: Artifact 2 OpenGl 3d Render
+My OpenGL object for my artifact falls under the algorithms and data structures category. It was part of the computer graphics and visual computing course I took, CS-330. The artifact is a component of a project in which we developed a 3D scene manager that uses OpenGL to manage the rendering of different objects, textures, and materials. The main objective of the project was to manage resources including textures, shaders, and geometric data while implementing effective rendering algorithms. Because it demonstrates the application of sophisticated data structures—such as hash maps for quick lookups and algorithms for resource management and rendering optimization—this artifact is very pertinent.
+![image](https://github.com/user-attachments/assets/c53b75e8-ccc0-4768-887e-c9996345e41e)
+
+### Enhancements
+- Memory Management: improve memory safety, reduce the risk of memory leaks, and ensure proper resource deallocation.
+- Rendering Performance: Optimized the rendering algorithms by reducing redundant state changes and minimizing OpenGL calls, resulting in a smoother and faster rendering process.
+- Texture Loading: Applied efficient image processing techniques and minimized redundant texture binding to reduce the overhead of texture operations.
+- Removed any unused library imports, functions, and codes.
+- Added detailed analysis for key methods with specific time complexity
+- Made sure i had an efficient memory deallocation using the DestroyGLTextures function.
+- Made LoadSceneTextures function loads textures only once and binds them, minimizing the overhead of loading textures during runtime.
+- Better Error handling is included to notify the user if any texture fails to load, which is essential for debugging and ensuring rendering consistency.
+- Added the ApplyTransformations function to efficiently compose multiple transformations into a single operation, which reduces the overhead of applying transformations individually.
+
 ## Databases: Artifact 1 Fitness Tracking App
+As a project for my CS 360 course, which concentrated on using database management methods and principles, I created the fitness tracking app. The main objective was to develop a system that could manage user data pertaining to fitness-related activities, such as tracking progress over time, keeping track of workouts, and offering data visualization insights. The database architecture of the program, which maintains user profiles, activity logs, and goal accomplishments, is essential to its operation.
 (https://github.com/FikrYemane/CS-499/tree/master)
