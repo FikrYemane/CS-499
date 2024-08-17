@@ -18,9 +18,11 @@ My coursework and projects have provided me with hands-on experience in multiple
 
 ## Software Design and Engineering: Atrifact 1 Fitness Tracking App
 For the software engineering and design category, I have selected my fitness tracking app developed for the CS 360 course as the artifact. This app serves as a practical example of my skills in designing and implementing a complete software solution. To enhance my fitness tracking app in alignment with software engineering and design principles, I plan to focus on improving security, user-friendliness, and memory efficiency. For security, I will integrate new authentication for robust user authentication, ensuring that user data is protected by industry-standard protocols. 
-![Screenshot 2024-07-26 144020](https://github.com/user-attachments/assets/5181728b-3bc1-4075-a9fb-ec14c1ae280f)
-![Screenshot 2024-07-26 150253](https://github.com/user-attachments/assets/2690428b-6028-46dc-9bdd-eeaf073a9ac0)
-![Screenshot 2024-07-26 151627](https://github.com/user-attachments/assets/0280232e-75e8-46d7-ae9a-acb6f2f65c42)
+![Screenshot 2024-07-26 151627](https://github.com/user-attachments/assets/7f2713ce-0ef4-42db-8ccb-15c6d1667bc2)
+![Screenshot 2024-07-26 150253](https://github.com/user-attachments/assets/d550b965-9fe5-42a9-ad19-97844b97c6cd)
+![Screenshot 2024-07-26 144020](https://github.com/user-attachments/assets/5df95c93-8a91-49b1-9b2a-5306080c576a)
+
+
 
 ### List of Enhancements made
 1. Comment Description of all files, It explains what the class and the functions in the class do
