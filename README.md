@@ -50,5 +50,9 @@ My OpenGL object for my artifact falls under the algorithms and data structures 
 - Added the ApplyTransformations function to efficiently compose multiple transformations into a single operation, which reduces the overhead of applying transformations individually.
 
 ## Databases: Artifact 1 Fitness Tracking App
-As a project for my CS 360 course, which concentrated on using database management methods and principles, I created the fitness tracking app. The main objective was to develop a system that could manage user data pertaining to fitness-related activities, such as tracking progress over time, keeping track of workouts, and offering data visualization insights. The database architecture of the program, which maintains user profiles, activity logs, and goal accomplishments, is essential to its operation.
+As a project for my CS 360 course, which concentrated on using database management methods and principles, I created the fitness tracking app. The main objective was to develop a system that could manage user data about fitness-related activities, such as tracking progress over time, keeping track of workouts, and offering data visualization insights. The database architecture of the program, which maintains user profiles, activity logs, and goal accomplishments, is essential to its operation.
+![image](https://github.com/user-attachments/assets/e787908b-58c5-4d18-ad79-1da4ba9f1b37)
+
+
+
 (https://github.com/FikrYemane/CS-499/tree/master)
