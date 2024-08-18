@@ -34,7 +34,7 @@ For the software engineering and design category, I have selected my fitness tra
 
 
 
-### List of Enhancements made
+### List of Enhancements and Improvements 
 - Each file includes detailed comments explaining the purpose of the class and the functions within it.
 - The app's UI has been completely revamped to improve user navigation and overall experience.
 - Weight entries now display the current date, ensuring that users always have relevant and up-to-date information.
@@ -66,7 +66,7 @@ My OpenGL object for my artifact falls under the algorithms and data structures 
 ![image](https://github.com/user-attachments/assets/c53b75e8-ccc0-4768-887e-c9996345e41e)
 
 
-### List of Enhancements made
+### List of Enhancements and Improvements 
 - Memory Management: improve memory safety, reduce the risk of memory leaks, and ensure proper resource deallocation.
 - Rendering Performance: Optimized the rendering algorithms by reducing redundant state changes and minimizing OpenGL calls, resulting in a smoother and faster rendering process.
 - Texture Loading: Applied efficient image processing techniques and minimized redundant texture binding to reduce the overhead of texture operations.
@@ -81,9 +81,25 @@ My OpenGL object for my artifact falls under the algorithms and data structures 
 Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. In developing the SceneManager class, my approach was centered on several key areas to enhance its functionality and performance while adhering to these principles and practices. One crucial aspect was memory management. I explicitly deleted dynamically allocated memory, such as the m_basicMeshes pointer, to ensure resources were properly deallocated and to mitigate the risk of memory leaks. Additionally, I set pointers to NULL after deletion to prevent potential dangling pointer issues.
 
 ## Databases: Artifact 1 Fitness Tracking App
-As a project for my CS 360 course, which concentrated on using database management methods and principles, I created the fitness tracking app. The main objective was to develop a system that could manage user data about fitness-related activities, such as tracking progress over time, keeping track of workouts, and offering data visualization insights. The database architecture of the program, which maintains user profiles, activity logs, and goal accomplishments, is essential to its operation.
+As a project for my CS 360 course, which concentrated on using database management methods and principles, I created the fitness tracking app. The main objective was to develop a system that could manage user data about fitness-related activities, such as tracking progress over time, keeping track of weight, and offering past insights. The database architecture of the program, which maintains user profiles, activity logs, goal accomplishments, and future set goals, is essential to its operation.
+
+[View Original Code Here](https://github.com/FikrYemane/Enhanced_Software-Design-and-Engineering)
+
+[View Enhanced Code Here](https://github.com/FikrYemane/CS-360)
+
+![image](https://github.com/user-attachments/assets/98377760-9a93-49ef-bcb2-92c5014cfac3)
 ![image](https://github.com/user-attachments/assets/e787908b-58c5-4d18-ad79-1da4ba9f1b37)
 
-
+### List of Enhancements and Improvements (All the enhancements are made in the DBHelper.java class)
+- Input validation is used in multiple methods like insertData, insertWeightData, and insertGoals to ensure that only valid data is processed, reducing potential errors.
+- insertGoals function: Error Handling: Uses try-catch blocks to manage potential database exceptions, preventing crashes and ensuring stability.
+- Efficiently organizes and manages the data to be inserted, utilizing SQLite's optimized mechanisms for data handling.
+- The getWeight function uses a single SQL query and minimizes memory usage by only fetching the "weight" column, making the operation more efficient.
+- Better security by including multiple validation checks during insertion.
+- Lazy loading and fetching only necessary data reduce memory usage and improve performance.
+- The use of ArrayList and Pair objects efficiently organizes and manages the data being retrieved or processed, contributing to overall code efficiency.
+- Used a 'finally' block in methods like getGoals to ensure that resources are properly closed even if an exception occurs, preventing resource leaks.
+- Constant time complexity O(1) is maintained for most database interactions, while linear time complexity O(n) is considered for methods involving data retrieval, ensuring predictable performance.
+- Detailed comments and documentation throughout the code provide clarity on the purpose and functionality of each method, making the code easier to understand and maintain.
 
 (https://github.com/FikrYemane/CS-499/tree/master)
