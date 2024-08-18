@@ -107,17 +107,8 @@ As a project for my CS 360 course, which concentrated on using database manageme
 - Constant time complexity O(1) is maintained for most database interactions, while linear time complexity O(n) is considered for methods involving data retrieval, ensuring predictable performance.
 - Detailed comments and documentation throughout the code provide clarity on the purpose and functionality of each method, making the code easier to understand and maintain.
 
-#### Course Outcome
+#### Course Outcome 5
 Working on the DBHelper class in my fitness tracking app was instrumental in developing a security mindset focused on anticipating adversarial exploits and safeguarding data. As I designed the database operations for user authentication, weight entries, and fitness goals, I had to consider various security threats that could compromise the integrity and confidentiality of user data. By anticipating potential exploits, such as SQL injection or unauthorized access to sensitive information, I was able to implement security measures like SHA-256 hashing, input validation, and rigorous error handling.
 
 
 
-
-
-
-
-
-
-
-
-(https://github.com/FikrYemane/CS-499/tree/master)
