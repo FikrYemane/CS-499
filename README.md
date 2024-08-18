@@ -80,6 +80,12 @@ My OpenGL object for my artifact falls under the algorithms and data structures 
 #### Course Outcome 3
 Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. In developing the SceneManager class, my approach was centered on several key areas to enhance its functionality and performance while adhering to these principles and practices. One crucial aspect was memory management. I explicitly deleted dynamically allocated memory, such as the m_basicMeshes pointer, to ensure resources were properly deallocated and to mitigate the risk of memory leaks. Additionally, I set pointers to NULL after deletion to prevent potential dangling pointer issues.
 
+#### Course Outcome 2
+Working on the fitness tracking app and the OpenGL scene manager project has significantly enhanced my ability to design, develop, and deliver professional-quality communications. In developing the fitness tracking app, I had to clearly articulate my design choices, especially when it came to database management, security, and UI features. Writing detailed documentation for the app forced me to break down complex technical processes into understandable segments, ensuring that anyone who reviews the project can easily grasp its functionality and purpose. This experience sharpened my ability to communicate technical concepts in a coherent and organized manner, which is important when presenting to both technical and non-technical audiences.
+Similarly, while working on the OpenGL 'scenemanager.cpp', I had to explain the intricate details of rendering optimizations and memory management techniques. This involved creating visual presentations that showcased the performance improvements I achieved by using advanced C++ techniques and optimization strategies. Through this project, I learned how to effectively use visuals to support my technical explanations, making the content more engaging and accessible. These experiences have reinforced the importance of tailoring communications to the audience’s level of understanding while maintaining technical accuracy, ensuring that the message is both clear and impactful.
+
+
+
 ## Databases: Artifact 1 Fitness Tracking App
 As a project for my CS 360 course, which concentrated on using database management methods and principles, I created the fitness tracking app. The main objective was to develop a system that could manage user data about fitness-related activities, such as tracking progress over time, keeping track of weight, and offering past insights. The database architecture of the program, which maintains user profiles, activity logs, goal accomplishments, and future set goals, is essential to its operation.
 
@@ -100,5 +106,18 @@ As a project for my CS 360 course, which concentrated on using database manageme
 - Used a 'finally' block in methods like getGoals to ensure that resources are properly closed even if an exception occurs, preventing resource leaks.
 - Constant time complexity O(1) is maintained for most database interactions, while linear time complexity O(n) is considered for methods involving data retrieval, ensuring predictable performance.
 - Detailed comments and documentation throughout the code provide clarity on the purpose and functionality of each method, making the code easier to understand and maintain.
+
+#### Course Outcome
+Working on the DBHelper class in my fitness tracking app was instrumental in developing a security mindset focused on anticipating adversarial exploits and safeguarding data. As I designed the database operations for user authentication, weight entries, and fitness goals, I had to consider various security threats that could compromise the integrity and confidentiality of user data. By anticipating potential exploits, such as SQL injection or unauthorized access to sensitive information, I was able to implement security measures like SHA-256 hashing, input validation, and rigorous error handling.
+
+
+
+
+
+
+
+
+
+
 
 (https://github.com/FikrYemane/CS-499/tree/master)
