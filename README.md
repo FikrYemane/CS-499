@@ -109,6 +109,6 @@ As a project for my CS 360 course, which concentrated on using database manageme
 
 #### Course Outcome 5
 Working on the DBHelper class in my fitness tracking app was instrumental in developing a security mindset focused on anticipating adversarial exploits and safeguarding data. As I designed the database operations for user authentication, weight entries, and fitness goals, I had to consider various security threats that could compromise the integrity and confidentiality of user data. By anticipating potential exploits, such as SQL injection or unauthorized access to sensitive information, I was able to implement security measures like SHA-256 hashing, input validation, and rigorous error handling.
-
+Through this process, I became more adept at identifying potential weak points in software architecture and proactively addressing them before they could be exploited. The experience underscored the importance of building security into the software design process rather than treating it as an afterthought. It also taught me the value of staying informed about emerging security threats and adapting my strategies to defend against them. This proactive approach not only enhances the privacy and security of data but also contributes to the overall reliability and trustworthiness of the software.
 
 
