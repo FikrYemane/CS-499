@@ -21,7 +21,8 @@ For the software engineering and design category, I have selected my fitness tra
 ### Flow chart for the Authentication process
 ![image](https://github.com/user-attachments/assets/c56b01d2-f83f-4f09-a399-62a972a3579c)
 
-![image](https://github.com/user-attachments/assets/da69c8a5-815f-4f29-9534-a376b462b542) ![image](https://github.com/user-attachments/assets/9df688ad-794c-4c93-a313-f24916d04d85)
+![image](https://github.com/user-attachments/assets/db52c46f-f920-40e1-b437-cb519e967f4d)
+
 
 
 
