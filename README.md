@@ -88,7 +88,6 @@ As a project for my CS 360 course, which concentrated on using database manageme
 [View Enhanced Code Here](https://github.com/FikrYemane/CS-360)
 
 ![image](https://github.com/user-attachments/assets/98377760-9a93-49ef-bcb2-92c5014cfac3)
-![image](https://github.com/user-attachments/assets/e787908b-58c5-4d18-ad79-1da4ba9f1b37)
 
 ### List of Enhancements and Improvements (All the enhancements are made in the DBHelper.java class)
 - Input validation is used in multiple methods like insertData, insertWeightData, and insertGoals to ensure that only valid data is processed, reducing potential errors.
