@@ -18,6 +18,8 @@ My coursework and projects have provided me with hands-on experience in multiple
 
 ## Software Design and Engineering: Atrifact 1 Fitness Tracking App
 For the software engineering and design category, I have selected my fitness tracking app developed for the CS 360 course as the artifact. This app serves as a practical example of my skills in designing and implementing a complete software solution. To enhance my fitness tracking app in alignment with software engineering and design principles, I plan to focus on improving security, user-friendliness, and memory efficiency. For security, I will integrate new authentication for robust user authentication, ensuring that user data is protected by industry-standard protocols. 
+[view Original code here](https://github.com/FikrYemane/Enhanced_Software-Design-and-Engineering)
+[view Enhanced code here](https://github.com/FikrYemane/CS-360)
 ### Flow chart for the Authentication process
 ![image](https://github.com/user-attachments/assets/c56b01d2-f83f-4f09-a399-62a972a3579c)
 
