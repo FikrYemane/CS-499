@@ -21,8 +21,10 @@ For the software engineering and design category, I have selected my fitness tra
 ### Flow chart for the Authentication process
 ![image](https://github.com/user-attachments/assets/c56b01d2-f83f-4f09-a399-62a972a3579c)
 
+![image](https://github.com/user-attachments/assets/da69c8a5-815f-4f29-9534-a376b462b542) ![image](https://github.com/user-attachments/assets/9df688ad-794c-4c93-a313-f24916d04d85)
 
-#### ![iPhone 14 Plus - 2](https://github.com/user-attachments/assets/e330d044-65f7-4ae0-ad92-c71b9ecc0a3b) ![iPhone 14 Plus - 1](https://github.com/user-attachments/assets/69138bce-52de-47c1-8e9e-494edca889b8)
+
+
 
 ### List of Enhancements made
 - Each file includes detailed comments explaining the purpose of the class and the functions within it.
