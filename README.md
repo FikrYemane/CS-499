@@ -21,6 +21,9 @@ For the software engineering and design category, I have selected my fitness tra
 ### Flow chart for the Authentication process
 ![image](https://github.com/user-attachments/assets/c56b01d2-f83f-4f09-a399-62a972a3579c)
 
+![image](https://github.com/user-attachments/assets/bad7682d-8da6-4674-82d5-8fc22355c63c)
+
+
 ### List of Enhancements made
 - Each file includes detailed comments explaining the purpose of the class and the functions within it.
 - The app's UI has been completely revamped to improve user navigation and overall experience.
