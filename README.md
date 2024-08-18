@@ -22,15 +22,15 @@ For the software engineering and design category, I have selected my fitness tra
 ![image](https://github.com/user-attachments/assets/c56b01d2-f83f-4f09-a399-62a972a3579c)
 
 ### List of Enhancements made
-- Comment Description of all files, It explains what the class and the functions in the class do
-- Changed the UI for the entire app, Making it easier for users to navigate
-- Weight entries are displayed with the current date, ensuring relevant and up-to-date information.
-- The AddWeight.java class is optimized for user experience by providing quick feedback and efficiently managing database interactions.
-- Inserting a new goal into the database is a constant-time operation.
-- Proper error handling and validation ensure that only valid data is processed, reducing the risk of application errors.
-- LoginActivity.java class activity efficiently handles user input and provides immediate feedback.
-- Removed any unused or redundant code and variables.
-- Better Secuirty for the userLogin.
+- Comprehensive File Documentation: Each file includes detailed comments explaining the purpose of the class and the functions within it.
+- Enhanced User Interface: The app's UI has been completely revamped to improve user navigation and overall experience.
+- Date-Stamped Weight Entries: Weight entries now display the current date, ensuring that users always have relevant and up-to-date information.
+- Optimized AddWeight.java Class: This class has been refined to enhance user experience by delivering quick feedback and efficiently managing database interactions.
+- Efficient Goal Insertion: Adding a new goal to the database is now a constant-time operation, ensuring swift and reliable updates.
+- Robust Error Handling and Validation: Proper error handling and data validation are implemented to ensure that only valid data is processed, minimizing the risk of application errors.
+- Responsive LoginActivity.java Class: This class efficiently processes user input and provides immediate feedback, improving the login experience.
+- Code Cleanup: Any unused or redundant code and variables have been removed to streamline the application's performance.
+- Improved User Login Security: Security measures have been strengthened to better protect user login information
 
 In my work on the fitness monitoring app for the CS 360 course, I employed several strategies to build a collaborative environment that enabled diverse audiences to support organizational decision-making. One of the primary strategies was through the use of clear and inclusive communication. I made sure to document the app's development process thoroughly, providing detailed comments and explanations in the code. This approach ensured that all team members, regardless of their technical expertise, could understand the codebase and contribute effectively. This inclusive documentation was crucial in facilitating collaboration and ensuring that everyone involved could participate in discussions and decision-making processes.  I utilized collaborative tools like GitHub to manage version control and code reviews. This allowed the team to work together efficiently, tracking changes and providing feedback in real time. By maintaining an open and transparent workflow, we were able to make collective decisions that reflected the diverse perspectives within the team. This approach not only improved the quality of our work but also fostered a sense of shared ownership and responsibility.
 Through these strategies, I was able to create a collaborative environment that encouraged diverse input and supported informed decision-making. This experience highlighted the importance of clear communication and effective use of collaborative tools in achieving successful outcomes in software engineering projects.  
