@@ -25,7 +25,7 @@ For the software engineering and design category, I have selected my fitness tra
 
 [View Enhanced Code Here](https://github.com/FikrYemane/CS-360)
 ##### Flow chart for the Authentication process
-# <center>![image](https://github.com/user-attachments/assets/c56b01d2-f83f-4f09-a399-62a972a3579c) </center>
+![image](https://github.com/user-attachments/assets/c56b01d2-f83f-4f09-a399-62a972a3579c)
 
 
 
