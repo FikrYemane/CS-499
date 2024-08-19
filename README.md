@@ -18,7 +18,7 @@ Reflecting on my journey through the Computer Science program at Southern New Ha
 Beginning my studies in 2020, I have spent the past 4 years immersed in computer science, gaining a comprehensive understanding of the field's theoretical and practical aspects. Throughout this program, I have delved into various subjects, including software design and engineering, algorithms and data structures, and database management. Each course has contributed to building a solid foundation in programming, problem-solving, and analytical thinking.
 My coursework and projects have provided me with hands-on experience in multiple programming languages and development environments. I have become proficient in languages such as HTML/CSS, Javascript, Java, C++, Python, and SQL, and have developed a strong grasp of software development methodologies, including Agile and DevOps. These skills have enabled me to design, develop, and optimize complex, efficient and maintainable software systems.
 
-##[Code Review Video](https://youtu.be/Fiwi5RudN0U)
+## [Code Review Video](https://youtu.be/Fiwi5RudN0U)
 
 ## Software Design and Engineering: Atrifact 1 Fitness Tracking App
 For the software engineering and design category, I have selected my fitness tracking app developed for the CS 360 course as the artifact. This app serves as a practical example of my skills in designing and implementing a complete software solution. To enhance my fitness tracking app in alignment with software engineering and design principles, I plan to focus on improving security, user-friendliness, and memory efficiency. For security, I will integrate new authentication for robust user authentication, ensuring that user data is protected by industry-standard protocols. 
