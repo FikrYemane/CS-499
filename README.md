@@ -14,9 +14,9 @@
 6. Course Outcomes
 
 ## Professional Self-Assessment
-As I reflect on my journey through the Computer Science program at Southern New Hampshire University, I recognize the significant growth and development I have experienced both personally and professionally. My academic pursuits and practical projects have equipped me with the skills and knowledge necessary to excel in the fast-paced and ever-evolving field of technology.
+Reflecting on my journey through the Computer Science program at Southern New Hampshire University, I recognize the significant growth and development I have experienced both personally and professionally. My academic pursuits and practical projects have equipped me with the skills and knowledge necessary to excel in the fast-paced and ever-evolving technology field.
 Beginning my studies in 2020, I have spent the past 4 years immersed in computer science, gaining a comprehensive understanding of the field's theoretical and practical aspects. Throughout this program, I have delved into various subjects, including software design and engineering, algorithms and data structures, and database management. Each course has contributed to building a solid foundation in programming, problem-solving, and analytical thinking.
-My coursework and projects have provided me with hands-on experience in multiple programming languages and development environments. I have become proficient in languages such as HTML/CSS, Javascript, Java, C++, Python, and SQL, and have developed a strong grasp of software development methodologies, including Agile and DevOps. These skills have enabled me to design, develop, and optimize complex software systems that are both efficient and maintainable.
+My coursework and projects have provided me with hands-on experience in multiple programming languages and development environments. I have become proficient in languages such as HTML/CSS, Javascript, Java, C++, Python, and SQL, and have developed a strong grasp of software development methodologies, including Agile and DevOps. These skills have enabled me to design, develop, and optimize complex, efficient and maintainable software systems.
 
 ## Software Design and Engineering: Atrifact 1 Fitness Tracking App
 For the software engineering and design category, I have selected my fitness tracking app developed for the CS 360 course as the artifact. This app serves as a practical example of my skills in designing and implementing a complete software solution. To enhance my fitness tracking app in alignment with software engineering and design principles, I plan to focus on improving security, user-friendliness, and memory efficiency. For security, I will integrate new authentication for robust user authentication, ensuring that user data is protected by industry-standard protocols. 
@@ -70,9 +70,9 @@ My OpenGL object for my artifact falls under the algorithms and data structures 
 ## Databases: Artifact 1 Fitness Tracking App
 As a project for my CS 360 course, which concentrated on using database management methods and principles, I created the fitness tracking app. The main objective was to develop a system that could manage user data about fitness-related activities, such as tracking progress over time, keeping track of weight, and offering past insights. The database architecture of the program, which maintains user profiles, activity logs, goal accomplishments, and future set goals, is essential to its operation.
 
-[View Original Code Here](https://github.com/FikrYemane/Enhanced_Software-Design-and-Engineering)
+[View Enhanced Code Here](https://github.com/FikrYemane/Enhanced_Software-Design-and-Engineering)
 
-[View Enhanced Code Here](https://github.com/FikrYemane/CS-360)
+[View Original Code Here](https://github.com/FikrYemane/CS-360)
 
 ![image](https://github.com/user-attachments/assets/98377760-9a93-49ef-bcb2-92c5014cfac3)
 
