@@ -1,4 +1,6 @@
 # <center>CS-499 | SNHU</center>
+## <center>Fikr Yemane</center>
+## <center>Bachelor of Computer Science</center>
 
 ## Computer Science Capstone
 
